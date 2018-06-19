@@ -42,7 +42,7 @@ public class HDFSApp
     @Test
     public void cat() throws Exception
     {
-        FSDataInputStream inputStream = fileSystem.open(new Path("/hdfsapi/test/a.txt"));
+        FSDataInputStream inputStream = fileSystem.open(new Path("/springhdfs/hello.txt"));
         IOUtils.copyBytes(inputStream, System.out, 1024);
         inputStream.close();
     }
