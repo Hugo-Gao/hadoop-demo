@@ -1,0 +1,5 @@
+/Users/gaoyunfan/code/hadooptrain/src/main/java/com/gyf/hadoop/App.java
+/Users/gaoyunfan/code/hadooptrain/src/main/java/com/gyf/hadoop/mapreduce/PartitionerApp.java
+/Users/gaoyunfan/code/hadooptrain/src/main/java/com/gyf/hadoop/mapreduce/CombinerApp.java
+/Users/gaoyunfan/code/hadooptrain/src/main/java/com/gyf/hadoop/mapreduce/WordCountApp.java
+/Users/gaoyunfan/code/hadooptrain/src/main/java/com/gyf/hadoop/mapreduce/WordCount2App.java

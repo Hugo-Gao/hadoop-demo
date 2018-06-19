@@ -1,0 +1,17 @@
+com/gyf/hadoop/mapreduce/CombinerApp$MyMapper.class
+com/gyf/hadoop/mapreduce/WordCount2App$MyMapper.class
+com/gyf/hadoop/mapreduce/PartitionerApp$MyReducer.class
+com/gyf/hadoop/mapreduce/PartitionerApp.class
+com/gyf/hadoop/App.class
+com/gyf/hadoop/mapreduce/WordCount2App$MyReducer.class
+com/gyf/hadoop/project/LogApp$MyReducer.class
+com/gyf/hadoop/mapreduce/CombinerApp$MyReducer.class
+com/gyf/hadoop/mapreduce/PartitionerApp$MyPartitioner.class
+com/gyf/hadoop/mapreduce/WordCountApp$MyReducer.class
+com/gyf/hadoop/mapreduce/CombinerApp.class
+com/gyf/hadoop/mapreduce/WordCount2App.class
+com/gyf/hadoop/mapreduce/WordCountApp$MyMapper.class
+com/gyf/hadoop/project/LogApp$MyMapper.class
+com/gyf/hadoop/mapreduce/PartitionerApp$MyMapper.class
+com/gyf/hadoop/project/LogApp.class
+com/gyf/hadoop/mapreduce/WordCountApp.class
